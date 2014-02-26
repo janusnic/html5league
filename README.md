@@ -14,14 +14,14 @@ Also given ready to use templates for most used web frameworks.
 
 Main libraries:
 
-+ (jQuery v1.11.0)[http://jquery.com/]
-+ (jQuery UI v.10.4)[https://jqueryui.com/]
-+ (Twitter Bootstrap v3.1.1)[http://getbootstrap.com/]
-+ (Foundation v5.1.1)[http://foundation.zurb.com/]
++ [jQuery v1.11.0](http://jquery.com/)
++ [jQuery UI v.10.4](https://jqueryui.com/)
++ [Twitter Bootstrap v3.1.1](http://getbootstrap.com/)
++ [Foundation v5.1.1](http://foundation.zurb.com/)
 
 Secondary libraries:
 
-+ (jQuery Cookie v1.4.0)[https://github.com/carhartl/jquery-cookie]
-+ (Modernizr v2.7.1)[http://modernizr.com/]
-+ (FastClick v.0.6.11)[http://ftlabs.github.io/fastclick/]
++ [jQuery Cookie v1.4.0](https://github.com/carhartl/jquery-cookie)
++ [Modernizr v2.7.1](http://modernizr.com/)
++ [FastClick v.0.6.11](http://ftlabs.github.io/fastclick/)
 
