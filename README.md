@@ -12,8 +12,8 @@ Also given ready to use templates for most used web frameworks.
 
 ## Library Versions
 
-jQuery					1.11.0
-jQuery UI				1.10.4
-Twitter Bootstrap		3.1.1
-Foundation				5.1.1
++ jQuery				- 1.11.0
++ jQuery UI				- 1.10.4
++ Twitter Bootstrap		- 3.1.1
++ Foundation			- 5.1.1
 
