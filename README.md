@@ -18,4 +18,5 @@ Secondary libraries:
 + [jQuery Cookie (v1.4.0)](https://github.com/carhartl/jquery-cookie)
 + [Modernizr (v2.7.1)](http://modernizr.com/)
 + [FastClick (v.0.6.11)](http://ftlabs.github.io/fastclick/)
++ [Holder (v2.3.1)](http://imsky.github.io/holder/)
 
