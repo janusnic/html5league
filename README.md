@@ -20,3 +20,12 @@ Secondary libraries:
 + [FastClick (v.0.6.11)](http://ftlabs.github.io/fastclick/)
 + [Holder (v2.3.1)](http://imsky.github.io/holder/)
 
+
+## Author
+
+[Kenan Bek](http://github.com/KenanBek)
+
+
+## Copyright and license
+
+Code copyright 2014 Bek Online. Code released under [GNU GPL v3.0](LICENSE).
