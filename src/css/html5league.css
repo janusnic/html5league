@@ -1,0 +1,39 @@
+/* HTML5 League */
+
+body {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+#html5league-layout {
+	margin-top: 50px;
+}
+
+#html5league-search {
+	padding: 5px;
+	border-bottom: 1px solid #dcdcdc;
+	background-color: #eaeaea;
+}
+
+#html5league-search-content {
+	padding: 15px;
+}
+
+#html5league-content {
+	
+}
+
+#html5league-footer {
+	margin-top: 40px;
+	padding-top: 20px;
+	border-top: 2px solid #dcdcdc;
+	text-align: center;
+	background-color: #eaeaea;
+}
+
+
+/* Extend other elements */
+
+.off-canvas-wrap {
+	background-color: #dcdcdc;
+}
