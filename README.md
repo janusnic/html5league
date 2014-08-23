@@ -1,7 +1,7 @@
 # HTML5 League
 --------------
 
-HTML5 League is project which combile most used web frameworks into one boilerplate. It can be used with your favorite web programming language as a front-end template.
+HTML5 League is project which combine most used web frameworks into one boilerplate. It can be used with your favorite web programming language as a front-end template.
 
             
 ## Included libraries
